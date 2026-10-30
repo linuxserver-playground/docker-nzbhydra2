@@ -12,6 +12,9 @@ upstream:
   version:
     type: github_release
     repo: theotherp/nzbhydra2
+    require_assets:
+      - asset: '^nzbhydra2\-.*\-amd64\-linux\.zip$'
+      - asset: '^nzbhydra2\-.*\-arm64\-linux\.zip$'
   notes:
     type: github_release
     repo: theotherp/nzbhydra2
