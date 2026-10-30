@@ -21,7 +21,7 @@ upstream:
     repo: theotherp/nzbhydra2
   sponsor:
   - name: NZBHydra 2
-    url: https://github.com/theotherp/nzbhydra2#donate
+    url: https://github.com/sponsors/theotherp
 
 release:
   branch: dev
