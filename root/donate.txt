@@ -1,1 +1,1 @@
-NZBHydra 2: https://github.com/theotherp/nzbhydra2#donate
+NZBHydra 2: https://github.com/sponsors/theotherp
